@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m+ Heap.gen1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.insert two elements and the findMin should give minimum of tww: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Insert into empty heap and then delete should result in empty heap: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.get sorted sequence continuosly finding and deleting minimum: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.finding minimum of melding of two heaps should give either one: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.sorted: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.minOfSome: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Finding a minimum of the melding of a heap with an empty heap should return the minimum of the heap.: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Finding a minimum of the melding of any two identical heaps should return a minimum of one or the other.: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.find min of 2 arbitrary heaps: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.finding and deleting minimums of arbitrary heap: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.delete min and insert it again: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.transferring the minimum to another heap: OK, passed 100 tests.[0m

@@ -1,0 +1,20 @@
+coursier.ResolutionException: Encountered 3 error(s) in dependency resolution:
+    org.scala-js:scalajs-test-interface_2.11:0.6.22:
+        download error: Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-test-interface_2.11/0.6.22/scalajs-test-interface_2.11-0.6.22.pom
+        not found: /home/ankitesh/.ivy2/local/org.scala-js/scalajs-test-interface_2.11/0.6.22/ivys/ivy.xml
+    org.scala-js:scalajs-library_2.11:0.6.22:
+        download error: Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-library_2.11/0.6.22/scalajs-library_2.11-0.6.22.pom
+        not found: /home/ankitesh/.ivy2/local/org.scala-js/scalajs-library_2.11/0.6.22/ivys/ivy.xml
+    org.scala-js:scalajs-dom_sjs0.6_2.11:0.9.4:
+        download error: Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-dom_sjs0.6_2.11/0.9.4/scalajs-dom_sjs0.6_2.11-0.9.4.pom
+        not found: /home/ankitesh/.ivy2/local/org.scala-js/scalajs-dom_sjs0.6_2.11/0.9.4/ivys/ivy.xml
+[error] (webUI/*:ssExtractDependencies) coursier.ResolutionException: Encountered 3 error(s) in dependency resolution:
+[error]     org.scala-js:scalajs-test-interface_2.11:0.6.22:
+[error]         download error: Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-test-interface_2.11/0.6.22/scalajs-test-interface_2.11-0.6.22.pom
+[error]         not found: /home/ankitesh/.ivy2/local/org.scala-js/scalajs-test-interface_2.11/0.6.22/ivys/ivy.xml
+[error]     org.scala-js:scalajs-library_2.11:0.6.22:
+[error]         download error: Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-library_2.11/0.6.22/scalajs-library_2.11-0.6.22.pom
+[error]         not found: /home/ankitesh/.ivy2/local/org.scala-js/scalajs-library_2.11/0.6.22/ivys/ivy.xml
+[error]     org.scala-js:scalajs-dom_sjs0.6_2.11:0.9.4:
+[error]         download error: Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-dom_sjs0.6_2.11/0.9.4/scalajs-dom_sjs0.6_2.11-0.9.4.pom
+[error]         not found: /home/ankitesh/.ivy2/local/org.scala-js/scalajs-dom_sjs0.6_2.11/0.9.4/ivys/ivy.xml
